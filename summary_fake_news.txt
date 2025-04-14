@@ -1,0 +1,12 @@
+Project: Fake News Detection Using NLP
+
+Summary:
+This project aims to detect fake news using Natural Language Processing techniques. It utilizes a dataset of news articles labeled as real or fake.
+The text is preprocessed using NLP techniques such as tokenization, stopword removal, and TF-IDF vectorization. Several classifiers were tested,
+including Logistic Regression and Passive Aggressive Classifier, with accuracy being the primary evaluation metric.
+
+Key Features:
+- Text preprocessing using NLTK
+- Feature extraction using TF-IDF
+- Model training and evaluation
+- Confusion matrix and accuracy score visualization
